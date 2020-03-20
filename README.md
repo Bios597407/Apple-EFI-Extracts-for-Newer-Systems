@@ -4,3 +4,7 @@ Extracts of newer Apple EFI payloads from 2018 onwards. Folders are categorized 
 __Region Files:__
 
 Region files were extracted using UEFITool and may require trimming. So don't just go flashing them without making sure they are edited (if needed).
+
+__Note:__
+
+These are raw payloads, meaning like reagular Apple EFI payloads, they may require Initialization / Serialization with an Fsys Block etc. Haven't worked too much with these newer images, so still experimenting.

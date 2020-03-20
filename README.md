@@ -7,4 +7,4 @@ Region files were extracted "as is" using UEFITool and may require trimming. So 
 
 __Note:__
 
-These are raw payloads, meaning like reagular Apple EFI payloads, they may require Initialization / Serialization with an Fsys Block etc. Haven't worked too much with these newer images, so still experimenting.
+These are raw payloads, meaning like reagular Apple EFI payloads, they may require Initialization / Serialization with an Fsys Block etc. Haven't worked too much with these newer images, so still some unknowns.

@@ -3,7 +3,7 @@ Extracts of newer Apple EFI payloads from 2018 onwards. Folders are categorized 
 
 __Region Files:__
 
-Region files were extracted using UEFITool and may require trimming. So don't just go flashing them without making sure that if required they've been properly trimmed / edited. (Can just use a hex editor).
+Region files were extracted "as is" using UEFITool and may require trimming. So don't just go flashing them without making sure that if required they've been properly trimmed / edited. (Can just use a hex editor).
 
 __Note:__
 
